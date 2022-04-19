@@ -1,3 +1,3 @@
-# CALCULANDO-IMC- C
+#  INTRODUÇÃO A LINGUAGEM DE PROGRAMAÇAO C 
 
-Calculando o IMC com a linguagem C 
+
